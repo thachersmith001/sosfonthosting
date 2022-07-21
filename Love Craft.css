@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Love Craft';
+    src: url('fonts/Love-Craft.eot');
+    src: url('fonts/Love-Craft.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Love-Craft.woff2') format('woff2'),
+         url('fonts/Love-Craft.woff') format('woff'),
+         url('fonts/Love-Craft.ttf')  format('truetype'),
+         url('fonts/Love-Craft.svg#Love Craft') format('svg');
+}
